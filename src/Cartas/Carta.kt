@@ -1,5 +1,5 @@
 package Cartas
-/*MIAUUU*/
+/*MIAUUUa*/
 class Carta(Minumero: Int, mipalo: Char) {
     var numero=Minumero
         set(value) {
